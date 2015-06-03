@@ -1,0 +1,9 @@
+Kevin Hui cs184-em
+Patrick Lin cs184-dv
+
+Developed on Windows, wrote a Makefile that compiles as2.cpp to raytracer.exe by running "make".
+Since I was using Windows shell I ran programs with "raytracer.exe inputfile".
+Object files are stored in a subdirectory called objs.
+Timing was accomplished by writing a simple batch file that called "echo %time%" before and after running raytracer.exe.
+
+code is on Kevin's account
